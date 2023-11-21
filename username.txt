@@ -1,0 +1,10 @@
+sam: hi
+sam : hello
+sam : hey
+ram : helloooo
+tom : hey
+tom : hey, whatsupp
+tom : hey
+gem : hello friends
+jam : hello peps
+jim : okay
